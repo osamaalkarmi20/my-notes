@@ -1,5 +1,7 @@
 ##  my-notes
-1.  ###  Today we startewd the **ASAC** cources and we have learned cople of things :
+My name is osama alkarmy I am a computer engineer with a low experiance in programing but with this course I think i will be good at it .
+
+  ###  Today we startewd the **ASAC** cources and we have learned cople of things :
 
 * the diffrince between **GUI** and **CLI**
 * some trerminal comands 
