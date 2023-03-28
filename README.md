@@ -1,5 +1,5 @@
 ##  my-notes
-My name is osama alkarmy I am a computer engineer with a low experiance in programing but with this course I think i will be good at it .
+My name is osama alkarmy I am a computer engineer with a low experiance in programing but with this course I think i will be good at it .This course will help full fill my passion to softwering programs as i see the ability that it could give me and the helpfull tool that it is .
 
   ###  Today we startewd the **ASAC** cources and we have learned cople of things :
 
